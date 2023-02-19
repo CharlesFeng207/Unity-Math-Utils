@@ -51,7 +51,6 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Circle.cs" />
-     <Compile Include="Assets\HitTestUtil.cs" />
      <Compile Include="Assets\MathUtils.cs" />
      <Compile Include="Assets\Rectangle.cs" />
      <Compile Include="Assets\Sector.cs" />
